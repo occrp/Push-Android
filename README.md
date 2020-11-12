@@ -7,6 +7,7 @@ This is the repository for the Android app portion of the Push app ecosystem. Th
 - Analytics support
 - In-line images in stories
 - YouTube player support
+- Anticensurship support
 
 # Requirements
 
